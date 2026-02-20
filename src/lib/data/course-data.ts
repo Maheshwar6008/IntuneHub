@@ -65,7 +65,7 @@ export const courseData: CourseData = {
         name: "Maheshwar",
         title: "Infrastructure & Cloud Administrator (HCLTech)",
         email: "maheshwarkumar5629@gmail.com",
-        linkedin: "https://linkedin.com/in/trainer",
+        linkedin: "https://www.linkedin.com/in/maheshwar-kumar-0092832b7/",
     },
     duration: "12-16 hours",
     prerequisites: [
